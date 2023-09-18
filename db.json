@@ -1,0 +1,4581 @@
+{
+  "arrangements": [
+    {
+      "Id": "ArrangementId-1",
+      "Name": "Property Name 1",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Берово"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-13",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-12",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 52,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Градови"
+    },
+    {
+      "Id": "ArrangementId-2",
+      "Name": "Property Name 2",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Берово"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-14",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-3.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-11",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 52,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Градови"
+    },
+    {
+      "Id": "ArrangementId-3",
+      "Name": "Property Name 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Берово"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-2",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-10",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 52,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Градови"
+    },
+    {
+      "Id": "ArrangementId-4",
+      "Name": "Property Name 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Крушево"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-15",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-9",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 52,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Градови"
+    },
+    {
+      "Id": "ArrangementId-5",
+      "Name": "Property Name 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Крушево"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-3",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-8",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 52,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Градови"
+    },
+    {
+      "Id": "ArrangementId-6",
+      "Name": "Property Name 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Маврово"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-4",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-7",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 52,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Излети"
+    },
+    {
+      "Id": "ArrangementId-7",
+      "Name": "Property Name 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Маврово"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-5",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-6",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Излети"
+    },
+    {
+      "Id": "ArrangementId-8",
+      "Name": "Property Name 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Македонија",
+        "Region": "Маврово"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-16",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-17",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Македонија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Излети"
+    },
+    {
+      "Id": "ArrangementId-9",
+      "Name": "Property Name 4",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Италија",
+        "Region": "Сардинија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-1",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Италија",
+            "Region": "Сицилија"
+          }
+        },
+        {
+          "Id": "arrangementImageId-19",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Италија",
+            "Region": "Ломбардија"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-10",
+      "Name": "Property Name 5",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Турција",
+        "Region": "Анталија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-21",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Турција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-20",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Турција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-11",
+      "Name": "Villa Margariti 1",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Касандра"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-22",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-23",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-24",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-3.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-25",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": true,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-12",
+      "Name": "Villa Margariti 2",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Касандра"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-27",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-26",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-28",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-3.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-29",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-13",
+      "Name": "Villa Margariti 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Касандра"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-31",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-32",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-33",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-3.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-34",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-14",
+      "Name": "Villa Margariti 5",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Касандра"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-41",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-35",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-3.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-36",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-37",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 55,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Апартмани"
+    },
+    {
+      "Id": "ArrangementId-15",
+      "Name": "Villa Margariti 6",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Касандра"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-51",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-38",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 55,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Апартмани"
+    },
+    {
+      "Id": "ArrangementId-16",
+      "Name": "Villa Margariti 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Тасос"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-61",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-39",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 55,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-17",
+      "Name": "Villa Тасос 2",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Тасос"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-40",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-42",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 55,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-18",
+      "Name": "Villa Тасос 1",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Тасос"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-43",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-44",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 55,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Апартмани"
+    },
+    {
+      "Id": "ArrangementId-19",
+      "Name": "Villa Lefkas 4",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Лефкада"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-45",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-46",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-20",
+      "Name": "Villa Lefkas 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Лефкада"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-47",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-48",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Апартмани"
+    },
+    {
+      "Id": "ArrangementId-21",
+      "Name": "Villa Лефкада 2",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Лефкада"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-49",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-50",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 64,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-22",
+      "Name": "Villa Лефкада 1",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Лефкада"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-52",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-53",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Апартмани"
+    },
+    {
+      "Id": "ArrangementId-23",
+      "Name": "Villa Ситонија 1",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Ситонија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-54",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-55",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 54,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 75,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 98,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 98,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 98,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-24",
+      "Name": "Villa Ситонија 2",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Ситонија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-56",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-57",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 98,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 98,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 98,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-25",
+      "Name": "Villa Ситонија 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Ситонија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-58",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-59",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 98,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-26",
+      "Name": "Villa Ситонија 4",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Ситонија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-60",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-62",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-27",
+      "Name": "Villa Margariti 5",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Грција",
+        "Region": "Ситонија"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-63",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        },
+        {
+          "Id": "arrangementImageId-64",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Грција"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 56,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-28",
+      "Name": "Exotic Margariti 8",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-1232",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-1223",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-35",
+      "Name": "Exotic Maldivi 7",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-111",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-122",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-4.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-34",
+      "Name": "Exotic Margariti 1",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-1010",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-110",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 63,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-37",
+      "Name": "Exotic Margariti 6",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-108",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-107",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-33",
+      "Name": "Exotic Margariti 5",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Доминикана"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-107",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-106",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-31",
+      "Name": "Exotic Margariti 4",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Куба"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-106",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-105",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-30",
+      "Name": "Exotic Margariti 3",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Дубаи"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-6104",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-103",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-3.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": true,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-41",
+      "Name": "Exotic Margariti 8",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Сејшели"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-102",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-100",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": true,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-142",
+      "Name": "Exotic Margariti 8",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-101232",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-123200",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-40",
+      "Name": "Exotic Margariti 8",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-12302",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-11100",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    },
+    {
+      "Id": "ArrangementId-39",
+      "Name": "Exotic Margariti 8",
+      "Description": "Elit magna commodo minim eu pariatur aliqua et aliquip sit. Mollit adipisicing incididunt proident ullamco eiusmod velit. Non veniam est do irure. Sunt nulla dolor labore eu.",
+      "TransportationDescription": "Tempor tempor ea est consequat magna voluptate amet fugiat non. Do ipsum eiusmod qui pariatur laborum. Nisi et est elit ut sunt exercitation reprehenderit reprehenderit ut.",
+      "Location": {
+        "Country": "Егзотични дестинации",
+        "Region": "Малдиви"
+      },
+      "Gallery": [
+        {
+          "Id": "arrangementImageId-102",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-2.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        },
+        {
+          "Id": "arrangementImageId-100",
+          "Description": "Mollit amet aliquip esse irure.",
+          "Thumbnail": "/images/arrangementsCountries/card-image-1.jpg",
+          "url": "https://images.placeholders.dev/?width=1200&height=400&text=Sample&bgColor=%23f7f6f6&textColor=%236d6e71",
+          "Location": {
+            "Country": "Егзотични дестинации"
+          }
+        }
+      ],
+      "IsLastMinute": false,
+      "IsPublished": true,
+      "PriceForNights": 1,
+      "Prices": [
+        {
+          "Prices": [
+            {
+              "id": "priceId-1",
+              "dateAvailable": "01.05.2023-07.05.2023",
+              "price": 57,
+              "nights": 7
+            },
+            {
+              "id": "priceId-2",
+              "dateAvailable": "08.05.2023-15.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-3",
+              "dateAvailable": "16.05.2023-23.05.2023",
+              "price": 67,
+              "nights": 7
+            },
+            {
+              "id": "priceId-4",
+              "dateAvailable": "24.05.2023-30.05.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-5",
+              "dateAvailable": "31.05.2023-07.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-6",
+              "dateAvailable": "08.06.2023-15.06.2023",
+              "price": 77,
+              "nights": 7
+            },
+            {
+              "id": "priceId-7",
+              "dateAvailable": "16.06.2023-23.06.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-8",
+              "dateAvailable": "24.06.2023-01.07.2023",
+              "price": 87,
+              "nights": 7
+            },
+            {
+              "id": "priceId-9",
+              "dateAvailable": "02.07.2023-08.07.2023",
+              "price": 87,
+              "nights": 7
+            }
+          ],
+          "LastMinutePrices": [
+            200
+          ]
+        }
+      ],
+      "State": [
+        "Free"
+      ],
+      "AvailabilityDates": [
+        "2023-08-16T22:00:00.000Z"
+      ],
+      "Type": "Хотели"
+    }
+  ],
+  "testimonials": [
+    {
+      "Id": "testimonialId-1",
+      "Title": "Some Title 1",
+      "Rating": 4,
+      "url": "images/testimonial-img.jpg",
+      "Description": "Mollit amet aliquip esse irure.",
+      "Arrangement": "Marriot Хотели"
+    },
+    {
+      "Id": "testimonialId-2",
+      "Title": "Some Title 2",
+      "Rating": 3,
+      "url": "images/testimonial-img.jpg",
+      "Description": "Mollit amet aliquip esse irure.",
+      "Arrangement": "Holiday Inn"
+    },
+    {
+      "Id": "testimonialId-3",
+      "Title": "Some Title 3",
+      "Rating": 5,
+      "url": "images/testimonial-img.jpg",
+      "Description": "Mollit amet aliquip esse irure.",
+      "Arrangement": "Marriot Хотели"
+    }
+  ],
+  "bestMomentsGallery": [
+    {
+      "Id": "moments-gallery-1",
+      "Img": "best-moments-gallery-1.png",
+      "Location": "Грција, Лефкада"
+    },
+    {
+      "Id": "moments-gallery-2",
+      "Img": "best-moments-gallery-2.png",
+      "Location": "Грција, Тасос"
+    },
+    {
+      "Id": "moments-gallery-3",
+      "Img": "best-moments-gallery-3.png",
+      "Location": "Грција, Ситонија"
+    },
+    {
+      "Id": "moments-gallery-4",
+      "Img": "best-moments-gallery-4.png",
+      "Location": "Грција, Лефкада"
+    },
+    {
+      "Id": "moments-gallery-5",
+      "Img": "best-moments-gallery-5.png",
+      "Location": "Грција, Касандра"
+    },
+    {
+      "Id": "moments-gallery-6",
+      "Img": "best-moments-gallery-6.png",
+      "Location": "Турција, Истанбул"
+    },
+    {
+      "Id": "moments-gallery-7",
+      "Img": "best-moments-gallery-7.png",
+      "Location": "Турција, Анталија"
+    },
+    {
+      "Id": "moments-gallery-8",
+      "Img": "best-moments-gallery-8.png",
+      "Location": "Турција, Истанбул"
+    },
+    {
+      "Id": "moments-gallery-9",
+      "Img": "best-moments-gallery-7.png",
+      "Location": "Турција, Анталија"
+    },
+    {
+      "Id": "moments-gallery-10",
+      "Img": "best-moments-gallery-8.png",
+      "Location": "Турција, Истанбул"
+    },
+    {
+      "Id": "moments-gallery-11",
+      "Img": "best-moments-gallery-7.png",
+      "Location": "Турција, Анталија"
+    },
+    {
+      "Id": "moments-gallery-12",
+      "Img": "best-moments-gallery-8.png",
+      "Location": "Турција, Истанбул"
+    }
+  ],
+  "subscriptions": [
+    {
+      "name": "d",
+      "email": "igor@asd.com",
+      "id": 1
+    },
+    {
+      "name": "dasd",
+      "email": "igor@asd.com1",
+      "id": 2
+    },
+    {
+      "name": "d",
+      "email": "igor@asd.com",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "email": "asd123123",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "email": "asd123123123",
+      "id": 5
+    },
+    {
+      "name": "асд",
+      "email": "асд",
+      "id": 6
+    },
+    {
+      "name": "igor",
+      "email": "igor@asd.com",
+      "id": 7
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "id": 8
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 19
+    },
+    {
+      "name": "asd",
+      "email": "asd@s",
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "asd",
+      "id": 21
+    },
+    {
+      "name": "asd",
+      "email": "asd@sas.comasd",
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 24
+    },
+    {
+      "name": "sd",
+      "email": "asda",
+      "id": 25
+    },
+    {
+      "name": "asd",
+      "email": "asda@cas.c",
+      "id": 26
+    },
+    {
+      "name": "asd",
+      "email": "asd@asd",
+      "id": 27
+    },
+    {
+      "name": "asd",
+      "email": "asd123@sasdc",
+      "id": 28
+    },
+    {
+      "name": "asd",
+      "email": "asd@asd",
+      "id": 29
+    },
+    {
+      "name": "asd",
+      "email": "igor@asd.com",
+      "id": 30
+    },
+    {
+      "name": "asd",
+      "email": "asd@asd",
+      "id": 31
+    },
+    {
+      "name": "asd",
+      "email": "asd123@sasdc",
+      "id": 32
+    },
+    {
+      "name": "123",
+      "email": "asd123@sasdc",
+      "id": 33
+    },
+    {
+      "name": "asd",
+      "email": "asd@aasd",
+      "id": 34
+    },
+    {
+      "name": "asd",
+      "email": "asd@asdc",
+      "id": 35
+    },
+    {
+      "name": "asd",
+      "email": "asd@aasd",
+      "id": 36
+    },
+    {
+      "name": "igor",
+      "email": "asd123@sasdc",
+      "id": 37
+    },
+    {
+      "name": "igor",
+      "email": "igor@123.com",
+      "id": 38
+    },
+    {
+      "name": "asd",
+      "email": "asd123@sasdc",
+      "id": 39
+    },
+    {
+      "name": "asd",
+      "email": "igor@asd.com",
+      "id": 40
+    },
+    {
+      "name": "asd",
+      "email": "asd123@sasdc",
+      "id": 41
+    }
+  ],
+  "contact": [
+    {
+      "name": "igor",
+      "lastName": "stojanovski",
+      "message": "asd",
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "lastName": "asd",
+      "message": "asd",
+      "id": 2
+    },
+    {
+      "name": "asd1",
+      "lastName": "asd1",
+      "message": "asd1",
+      "id": 3
+    },
+    {
+      "name": "асд",
+      "lastName": "асда",
+      "message": "сд",
+      "id": 4
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "message": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "message": "",
+      "id": 6
+    },
+    {
+      "name": "asd",
+      "lastName": "asd",
+      "message": "asd",
+      "id": 7
+    },
+    {
+      "name": "asd",
+      "lastName": "asda",
+      "message": "sd",
+      "id": 8
+    },
+    {
+      "name": "asda",
+      "lastName": "sda",
+      "message": "sd",
+      "id": 9
+    },
+    {
+      "name": "asda",
+      "lastName": "sda",
+      "message": "sd",
+      "id": 10
+    },
+    {
+      "name": "asd",
+      "lastName": "asd",
+      "message": "asd",
+      "id": 11
+    },
+    {
+      "name": "asd",
+      "lastName": "asda",
+      "message": "sd",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "edenPravec",
+        "od": "sda",
+        "do": "sd",
+        "datumPoaganje": "2023-09-15",
+        "datumVrakanje": "2023-09-28",
+        "vozrasni": "1",
+        "deca": "2",
+        "bebinja": "1",
+        "klasa": "prva klasa"
+      },
+      "id": 12
+    },
+    {
+      "name": "асд",
+      "lastName": "асд",
+      "message": "асд",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "povratenBilet",
+        "od": "асд",
+        "do": "асд",
+        "datumPoaganje": "2023-09-01",
+        "datumVrakanje": "2023-10-06",
+        "vozrasni": "1",
+        "deca": "1",
+        "bebinja": "1",
+        "klasa": ""
+      },
+      "id": 13
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "message": "",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "",
+        "od": "",
+        "do": "",
+        "datumPoaganje": "",
+        "datumVrakanje": "",
+        "vozrasni": 0,
+        "deca": 0,
+        "bebinja": 0,
+        "klasa": ""
+      },
+      "id": 14
+    },
+    {
+      "name": "asd",
+      "lastName": "asd",
+      "message": "asd",
+      "id": 15
+    },
+    {
+      "name": "асда",
+      "lastName": "сд",
+      "message": "асд",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "povratenBilet",
+        "od": "asd",
+        "do": "sds",
+        "datumPoaganje": "2023-09-13",
+        "datumVrakanje": "2023-10-06",
+        "vozrasni": "1",
+        "deca": 0,
+        "bebinja": 0,
+        "klasa": ""
+      },
+      "id": 16
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "message": "",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "",
+        "od": "",
+        "do": "",
+        "datumPoaganje": "",
+        "datumVrakanje": "",
+        "vozrasni": 0,
+        "deca": 0,
+        "bebinja": 0,
+        "klasa": ""
+      },
+      "id": 17
+    },
+    {
+      "name": "asd",
+      "lastName": "asda",
+      "message": "sd",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "edenPravec",
+        "od": "asd",
+        "do": "asdasd",
+        "datumPoaganje": "2023-09-07",
+        "datumVrakanje": "2023-09-28",
+        "vozrasni": "1",
+        "deca": "2",
+        "bebinja": "1",
+        "klasa": "biznis klasa"
+      },
+      "id": 18
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "message": "",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "edenPravec",
+        "od": "asd",
+        "do": "asdasd",
+        "datumPoaganje": "2023-09-07",
+        "datumVrakanje": "2023-09-28",
+        "vozrasni": "1",
+        "deca": "2",
+        "bebinja": "1",
+        "klasa": "biznis klasa"
+      },
+      "id": 19
+    },
+    {
+      "name": "asd",
+      "lastName": "asda",
+      "message": "sd",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "povratenBilet",
+        "od": "skopje",
+        "do": "rim",
+        "datumPoaganje": "2023-09-13",
+        "datumVrakanje": "2023-09-26",
+        "vozrasni": "1",
+        "deca": 0,
+        "bebinja": 0,
+        "klasa": ""
+      },
+      "id": 20
+    },
+    {
+      "name": "asda",
+      "lastName": "sd",
+      "message": "123",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "edenPravec",
+        "od": "asd",
+        "do": "asd",
+        "datumPoaganje": "2023-09-21",
+        "datumVrakanje": "2023-09-27",
+        "vozrasni": "1",
+        "deca": 0,
+        "bebinja": 0,
+        "klasa": ""
+      },
+      "id": 21
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "message": "",
+      "airplaneTicketsFormData": {
+        "povratenBilet": "edenPravec",
+        "od": "asd",
+        "do": "asd",
+        "datumPoaganje": "2023-09-21",
+        "datumVrakanje": "2023-09-27",
+        "vozrasni": "1",
+        "deca": 0,
+        "bebinja": 0,
+        "klasa": ""
+      },
+      "id": 22
+    }
+  ],
+  "liveMessages": [
+    {
+      "liveMessage": "asd",
+      "id": 1
+    },
+    {
+      "liveMessage": "asd",
+      "id": 2
+    },
+    {
+      "liveMessage": "asd",
+      "id": 3
+    },
+    {
+      "liveMessage": "асд",
+      "id": 4
+    },
+    {
+      "liveMessage": "asd",
+      "id": 5
+    },
+    {
+      "liveMessage": "asd",
+      "id": 6
+    },
+    {
+      "liveMessage": "asd",
+      "id": 7
+    },
+    {
+      "liveMessage": "asd",
+      "id": 8
+    },
+    {
+      "liveMessage": "igor",
+      "id": 9
+    },
+    {
+      "liveMessage": "igor1",
+      "id": 10
+    },
+    {
+      "liveMessage": "asd123",
+      "id": 11
+    },
+    {
+      "liveMessage": "asd",
+      "id": 12
+    }
+  ]
+}
